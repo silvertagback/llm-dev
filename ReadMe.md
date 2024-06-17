@@ -5,4 +5,4 @@ This repository contains 2 Jupyter notebooks and a chainlit demo app.
 * rag_intro: contains RAG introduction
 
 Chainlit installation guide: https://docs.chainlit.io/get-started/installation
-Afterwards, you can run the app with "chainlit run <filename> -w".  
+Afterwards, you can run the app with "chainlit run filename.py -w".  
