@@ -1,6 +1,6 @@
-SAP – AI/ML/Prompt Engineering feladatötletek –  2024
+AI/ML/Prompt Engineering feladatötletek –  2024
 
-A1 – SAP marketingszöveg-írató alkalmazás
+A1 – cáges marketingszöveg-írató alkalmazás
 A2 - Recommender systems – filmek ajnlása a korábbi felhasználói preferenciák alapján
 A3 - Recommender systems - zenék ajnlása a korábbi felhasználói preferenciák alapján
 A4 - Vállalati munkarend /élet  -segítő program
