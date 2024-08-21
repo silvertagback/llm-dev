@@ -1,39 +1,31 @@
-AI/ML/Prompt Engineering feladatötletek –  2024
+AI/ML/Prompt Engineering homework ideas - 2024
 
-A1 – cáges marketingszöveg-írató alkalmazás
-A2 - Recommender systems – filmek ajnlása a korábbi felhasználói preferenciák alapján
-A3 - Recommender systems - zenék ajnlása a korábbi felhasználói preferenciák alapján
-A4 - Vállalati munkarend /élet  -segítő program
-A5 - GPT store-ba: Productivity chatbot készítés
-A6 - GPT store-ba: Writing-summary - chatbot készítés 
-A7 - GPT store-ba: Programming - chatbot készítés
-A8 - GPT store-ba: Education - chatbot készítés
-A9 - GPT store-ba: Image creation - chatbot készítés
-A10 - Chatbot widget – speciális háttértudás alapján (RAG) - weboldalra
-A11 - Tesztsorozat-gyártó program
-A12 - Állásinterjú-felkészítő chatbot
-A13 - Etikus döntéselőkészítő szimulátor – dilemmákkal
-A14 - Dezinformáció-detektor – hírekben, social media-ban
-A15 - Chat-alkalmazás kiértékelő - prompt-kérdésen fut végig, ezeket megjáratja ChatGPT-ben (vagy Geminiben) - majd egy másik LLM session-ben ezt kiértékelteti: mennyire jó a kérdésre a válasz. Keressen ehhez metrikákat (mennyire hallucinál, mennyire szerepelteti a fontosnak vélt kulcsszavakat, stb.)
-A16  - Hálózat-konfigurációt segítő eszköz - Chatbot, ami Cisco vagy Juniper router-ekhez adott feladatra nyújt hálózat-konfigurációs támogatást. Működjön jelentősen jobban, mint az elérhető nagy nyelvi modellek jelenlegi tanítás mellett.
-A17 - Kódellenőrző asszisztens - Szoftverfejlesztési projektek kódminőségének, biztonsági sebezhetőségeinek és teljesítmény-optimalizálására.
-A18 - Személyre szabott tanulási platform - alkalmazkodva az egyes diákok igényeihez, preferenciáihoz és teljesítményéhez. Egy tématerületen interaktív módon átadja a tananyagot, vizsgálja a diák interakciókat, majd teszteli a diákok tudását, így segítve a személyre szabott tanulási élményt.
-A19 - Tartalomkészítő asszisztens digitális marketinghez -  segít vonzó és célzott tartalmat létrehozni különböző digitális marketingcsatornák és social media platformokszámára.
-A20 - Stílusváltó - automatikus hírgenerátor, különböző stílusokban. A felhasználó definiálja a stílust, megadja a hírt (vagy szöveget), és különböző stílusokba átírjuk. Egy másik LLM session-ben elemezze, mennyire jól sikerült a stílus leképezése. Keressen és alkalmazzon ehhez metrikákat.
-A21 – Hibaok-javasló rendszer – publikus hibaadatbázissal tanítva (vagy: RAG) adjon javaslatokat lehetséges hibaokokra és ezek eliminálására
-A22 - Alkalmazás, amelyben jelezni lehet a felszólalási igényünket egy gyűlésen, súlyozottan sorrendbe állítja a felszólalókat és nagy nyelvi modell segítségével rögzíti és formázza a felszólalásokat egy jegyzőkönyv formájában.
-
-A23 – Webes api amelyen keresztül tanárok kérdéseket generálhatnak diákoknak megadott témakörökben, a digitális oktatást segítve (saját projekt részeként)
-
-A24 – Recept ajánló ML algoritmus ami preferenciák alapján működik
-
-A25 – RAG validációs eljárás tervezése, megvalósítása. Langchain, Tonic Validate, UpTrain AI
-
-A26 – RAG illesztés saját (vagy akár nyílt, vagy vállalati) dokumentum-tömeghez - ChatBot kérdés-válasz formájában lehessen a speciális tudásbázisból kérdezni
-
-A27 – RAG - adatkinyerés saját (vagy akár nyílt, vagy vállalati) dokumentumokban megjelenő adattömegből, majd az adatok statisztikai elemzése (pl. Python kóddal, amiben co-pilot segít)
-
-A28 - Érdekes történeteket osszon meg a Chatbot különféle ételekről, kiegészítve menüsorokkal egyéb tartalommal feltöltött RAG-gel.
-
-A29 – IoT project megvalósításában segítség: az LLM alapú chatbotot segítenek végiglépkedni egy IoT projekten – ha még sosem mertél belevágni, itt az idő kipróbálni.
-
+A1 - Cage marketing text generator application
+A2 - Recommender systems - recommending movies based on previous user preferences
+A3 - Recommender systems - recommending music based on previous user preferences
+A4 - Corporate schedule/life assistant program
+A5 - GPT store: Productivity chatbot creation
+A6 - GPT store: Writing-summary chatbot creation
+A7 - GPT store: Programming chatbot creation
+A8 - GPT store: Education chatbot creation
+A9 - GPT store: Image creation chatbot creation
+A10 - Chatbot widget - specialized knowledge (RAG) based, for websites
+A11 - Test suite generator program
+A12 - Job interview preparation chatbot
+A13 - Ethical decision-making simulator - with dilemmas
+A14 - Disinformation detector - in news, social media
+A15 - Chat application evaluator - runs on prompt questions, tests them in ChatGPT (or Geminib), then evaluates the answer in another LLM session: how good is the answer to the question. Find metrics for this (how much it hallucinates, how much it includes important keywords, etc.)
+A16 - Network configuration tool - Chatbot that provides network configuration support for Cisco or Juniper routers for a given task. It should work significantly better than the currently available large language models with current training.
+A17 - Code review assistant - for software development projects to improve code quality, security vulnerabilities, and performance optimization.
+A18 - Personalized learning platform - adapting to individual students' needs, preferences, and performance. It interactively delivers the curriculum in a topic area, analyzes student interactions, and tests students' knowledge, thus facilitating personalized learning experience.
+A19 - Content creation assistant for digital marketing - helps create attractive and targeted content for various digital marketing channels and social media platforms.
+A20 - Style changer - automatic news generator in different styles. The user defines the style, provides the news (or text), and we rewrite it in different styles. In another LLM session, analyze how well the style mapping was done. Find and apply metrics for this.
+A21 - Error suggestion system - trained on a public error database (or RAG), provides suggestions for possible error causes and their elimination.
+A22 - Application to indicate our speaking request in a meeting, prioritizes speakers and records and formats the speeches in the form of minutes using a large language model.
+A23 - Web API through which teachers can generate questions for students in specified topics, aiding digital education (as part of own project)
+A24 - Recipe recommendation ML algorithm based on preferences
+A25 - RAG validation procedure design and implementation. Langchain, Tonic Validate, UpTrain AI
+*A26 - RAG matching to own (or even open, or corporate) document corpus - be able to ask questions from the specialized knowledge base in a Chatbot question-answer format
+*A27 - RAG - data extraction from own (or even open, or corporate) documents containing data, followed by statistical analysis of the data (e.g., using Python code with co-pilot's help)
+A28 - Share interesting stories about various foods with the Chatbot, supplemented with menus and other content filled with RAG.
+A29 - Assistance in implementing an IoT project: the LLM-based chatbot helps navigate through an IoT project - if you've never dared to start, now is the time to try.
